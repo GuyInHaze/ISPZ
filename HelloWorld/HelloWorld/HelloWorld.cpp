@@ -8,6 +8,7 @@ int main()
     std::cout << "Hello World!\n";
     std::cout << "Moskvin here\n";
     std::cout << "This is Arsentev";
+    std::cout << "Moskvin here\n";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
